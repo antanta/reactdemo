@@ -1,0 +1,8 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+
+ReactDOM.render(
+<h1>hello, world! 22722dsds</h1>,
+document.getElementById('root')
+);
